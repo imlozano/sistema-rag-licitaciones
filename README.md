@@ -89,7 +89,7 @@ El sistema sigue exactamente las mejores prácticas del tutorial, incluyendo:
 
 - [Documentación de Google AI](https://ai.google.dev/)
 - [Repositorio de LangChain](https://github.com/langchain-ai/langchain)
-- [Gemini File Search Documentación] (https://blog.google/technology/developers/file-search-gemini-api/)
+- [Gemini File Search Documentación](https://blog.google/technology/developers/file-search-gemini-api/)
 
 ## Para datos de prueba
 
