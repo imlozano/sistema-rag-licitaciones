@@ -93,7 +93,7 @@ El sistema sigue exactamente las mejores prácticas del tutorial, incluyendo:
 
 ## Para datos de prueba
 
-Los datos se pueden descargar a traves de la [SECOPII] (https://www.colombiacompra.gov.co/secop/secop-ii/consulte-en-el-secop-ii)
+Los datos se pueden descargar a traves de la [SECOPII](https://www.colombiacompra.gov.co/secop/secop-ii/consulte-en-el-secop-ii)
 
 1. Procesos de Contratación de las Entidades Estatales registradas
 2. Tipo de proceso
